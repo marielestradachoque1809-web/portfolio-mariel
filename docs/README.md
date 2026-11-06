@@ -1,27 +1,22 @@
 # Portfolio personal — Mariel Estrada Choque
 
-Sitio web estático desarrollado como trabajo final del Módulo 1.
+Sitio web desarrollado como trabajo final del primer módulo.
 
-## Páginas
+## contiene las siguientes páginas
 
 - Inicio: presentación personal y áreas de interés.
-- Proyectos: portfolio académico e ideas a futuro.
+- Proyectos: portfolio académico e ideas de otro proyecto.
 - Contacto: enlaces de contacto y formulario visual (sin envío).
 
-## Tecnologías
+## Sobre tecnologías
 
 HTML5, CSS3 y Bootstrap 5.3.8. Navegación adaptable sin JavaScript propio. Incluye ilustraciones en SVG, un audio breve de bienvenida y un boceto del sitio en `prototipo/boceto.svg`.
 
-## Publicación
-
-El sitio está publicado en GitHub Pages desde la rama `main`, carpeta raíz (`/`). El archivo principal es `index.html`.
 
 - **Sitio publicado:** https://marielestradachoque1809-web.github.io/portfolio-mariel/
 - **Repositorio:** https://github.com/marielestradachoque1809-web/portfolio-mariel
 
-Para la entrega del curso, compartir el enlace al repositorio en el aula virtual.
-
-## Estructura
+## Estructura de mi proyecyo
 
 ```text
 index.html

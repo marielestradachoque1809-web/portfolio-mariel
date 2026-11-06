@@ -14,9 +14,12 @@ HTML5, CSS3 y Bootstrap 5.3.8. Navegación adaptable sin JavaScript propio. Incl
 
 ## Publicación
 
-El archivo principal es `index.html`. GitHub Pages debe publicar desde la rama `main`, carpeta raíz (`/`).
+El sitio está publicado en GitHub Pages desde la rama `main`, carpeta raíz (`/`). El archivo principal es `index.html`.
 
-Una vez publicado, agregar el enlace de GitHub Pages en el campo **Website** de la sección **About** del repositorio y en el documento `docs/README.md`. Para la entrega del curso, copiar el enlace al repositorio en el aula virtual.
+- **Sitio publicado:** https://marielestradachoque1809-web.github.io/portfolio-mariel/
+- **Repositorio:** https://github.com/marielestradachoque1809-web/portfolio-mariel
+
+Para la entrega del curso, compartir el enlace al repositorio en el aula virtual.
 
 ## Estructura
 
